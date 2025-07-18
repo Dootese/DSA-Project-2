@@ -1,4 +1,5 @@
 # DSA-Project-2
+This report is a summary on the HR department of Palmoria Group.  
 
 ## PALMORIA GROUP HR ANALYSIS
 ### Project Overview
@@ -21,13 +22,13 @@ During the analysis, custom columns were used, filtering of rows and merging of 
 
 ### Results and findings
 From the analysis done results showed that:
-The overall performance rating of male employees is a bit higher than females
-By region Kaduna paid its employees the highest, but males were slightly more in number than females.
-Abuja region had almost same number of male and female employees
-Majority of employees were underpaid
+ - The overall performance rating of male employees is a bit higher than females
+ - By region Kaduna paid its employees the highest, but males were slightly more in number than females.
+ - Abuja region had almost same number of male and female employees
+ - Majority of employees were underpaid
 
 ### Recommendations
-Kaduna region can increase its employment quota for females by just a little
-The management should focus on increasing employee pay and consider opening branches after dealing with the issue of low pay.
+ - Kaduna region can increase its employment quota for females by just a little more
+ - The management should focus on increasing employee pay and consider opening branches after dealing with the issue of low pay.
 
 	  
